@@ -1,5 +1,8 @@
 """
 Calculator library containing basic math operations.
+
+https://realpython.com/python-continuous-integration/
+
 """
 
 
